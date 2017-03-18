@@ -1,0 +1,8 @@
+Package: komutan-themes
+Version: 0.1
+Architecture: all
+Maintainer: Aydin Yakar <aydin@komutan.org>
+Section: info
+Priority: optional
+Homepage: http://www.komutan.org/
+Description: Xfce4 Themes for Komutan Linux

@@ -1,0 +1,10 @@
+Package: linux-image-amd64
+Source: linux-latest (63)
+Version: 4.9.14
+Architecture: amd64
+Maintainer: Aydin Yakar <aydin@komutan.org>
+Depends: linux-image-4.9.14
+Section: kernel
+Priority: optional
+Description: Linux for 64-bit PCs (meta-package)
+ This package depends on the latest Linux kernel and modules for use on PCs.

@@ -1,0 +1,12 @@
+[X-GNOME-Metatheme]
+Name=Komutan
+Type=X-GNOME-Metatheme
+Comment=Clearly design for easy use
+Comment[tr]=Kolay kullanım icin sade ve yalin tasarim
+Encoding=UTF-8
+GtkTheme=Komutan
+MetacityTheme=Komutan
+ButtonLayout=:minimize,maximize,close
+IconTheme=Komutan
+CursorTheme=Komutan
+CursorSize=24

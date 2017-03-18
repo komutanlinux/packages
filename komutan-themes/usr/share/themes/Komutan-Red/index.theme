@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Komutan-Red
+Comment=Red theme
+Comment[tr]=Kirmizi tema
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Komutan-Red
+MetacityTheme=Komutan-Red
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close
